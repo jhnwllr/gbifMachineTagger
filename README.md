@@ -1,5 +1,7 @@
 
 
+# GBIF machine tagger 
+
 ## Installation 
 
 ```R 
@@ -82,7 +84,7 @@ data_to_delete
 deleteAllMachineTags(
 data_to_delete,
 authentication,
-api="http://api.gbif-uat.org/v1/dataset/") {
+api="http://api.gbif-uat.org/v1/dataset/") 
 
 
 ```
