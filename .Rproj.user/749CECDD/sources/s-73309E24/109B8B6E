@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558356728767.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "109B8B6E",
+    "lastKnownWriteTime" : 1558356753,
+    "last_content_update" : 1558356753486,
+    "path" : "C:/Users/ftw712/Desktop/gbifMachineTagger/R/updateAllMachineTags.R",
+    "project_path" : "R/updateAllMachineTags.R",
+    "properties" : {
+        "cursorPosition" : "7,20",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
